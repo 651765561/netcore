@@ -1,0 +1,34 @@
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.deps.json
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.runtimeconfig.json
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.runtimeconfig.dev.json
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.dll
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.pdb
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\DAL.dll
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Entity.dll
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Service.dll
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Service.pdb
+D:\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Entity.pdb
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.csprojResolveAssemblyReference.cache
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.csproj.CoreCompileInputs.cache
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.AssemblyInfoInputs.cache
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.AssemblyInfo.cs
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.dll
+D:\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.pdb
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.deps.json
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.runtimeconfig.json
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.runtimeconfig.dev.json
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.dll
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\ASP.Net Core API.pdb
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\DAL.dll
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Entity.dll
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Service.dll
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Service.pdb
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\bin\Debug\netcoreapp2.0\Entity.pdb
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.csprojResolveAssemblyReference.cache
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.csproj.CoreCompileInputs.cache
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.AssemblyInfoInputs.cache
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.AssemblyInfo.cs
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.dll
+F:\源码Demo\DotNetCore2.0\DotNetCore\ASP.Net Core API\obj\Debug\netcoreapp2.0\ASP.Net Core API.pdb
